@@ -1,5 +1,3 @@
-# YOLOv10(Fine-tuning): Protection Helmet Detection
-
 <div class="header">
     <h1>YOLOv10(Fine-tuning): Protection Helmet Detection</h1>
     <p><strong>Author: AIO_273_TrungHieuNguyen</strong></p>
